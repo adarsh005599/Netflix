@@ -1,5 +1,4 @@
 🎬 Netflix Clone
-## 📸 Screenshots  
 
 ## 📸 Screenshots  
 
@@ -27,8 +26,6 @@ Backend / Auth: Firebase Authentication
 API: TMDB API
 
 Deployment: Render
-📸 Screenshots
-Home Page
 
 Movie Trailer
 
@@ -39,7 +36,6 @@ Clone the repository:
 git clone https://github.com/adarsh005599/Netflix
 cd netflix-clone
 
-
 Install dependencies:
 
 npm install
@@ -48,7 +44,6 @@ REACT_APP_TMDB_API_KEY=your_tmdb_api_key
 REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 
 Run the project locally:
-
 npm start
 
 Pull requests are welcome!
