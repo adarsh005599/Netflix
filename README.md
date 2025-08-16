@@ -2,12 +2,12 @@
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home](./assets/Screenshot(185).png)  
+![Home](./assets/home.png)  
 ### Login Page  
-![Login](./assets/Screenshot(187).png)  
+![Login](./assets/login.png)  
 ### Trailer  
-![Trailer](./assets/Screenshot(186).png
-) 
+![Trailer](./assets/list.png)
+
 
 A Netflix Clone built with React.js, CSS, Firebase Authentication, and The Movie Database (TMDB) API.
 Users can sign up / log in, browse trending movies, and watch trailers directly.
@@ -36,7 +36,7 @@ Movie Trailer
 
 Clone the repository:
 
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/adarsh005599/Netflix
 cd netflix-clone
 
 
