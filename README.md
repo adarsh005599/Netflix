@@ -1,5 +1,13 @@
 🎬 Netflix Clone
+## 📸 Screenshots  
 
+### Home Page  
+![Home](./assets/Screenshot(185).png)  
+### Login Page  
+![Login](./assets/Screenshot(187).png)  
+### Trailer  
+![Trailer](./assets/Screenshot(186).png
+) 
 
 A Netflix Clone built with React.js, CSS, Firebase Authentication, and The Movie Database (TMDB) API.
 Users can sign up / log in, browse trending movies, and watch trailers directly.
