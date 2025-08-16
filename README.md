@@ -2,11 +2,11 @@
 ## 📸 Screenshots  
 
 ### Home Page  
-![Home](./assets/home.png)  
+![Home](./src/assets/home.png)  
 ### Login Page  
-![Login](./assets/login.png)  
+![Login](./src/assets/login.png)  
 ### Trailer  
-![Trailer](./assets/list.png)
+![Trailer](./src/assets/list.png)
 
 
 A Netflix Clone built with React.js, CSS, Firebase Authentication, and The Movie Database (TMDB) API.
