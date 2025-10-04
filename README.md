@@ -9,8 +9,10 @@ Live-https://netflix-jmu5.onrender.com/
   <img src="./src/assets/list.png" alt="Trailer" width="250"/>
 </p>
 
-A Netflix Clone built with React.js, CSS, Firebase Authentication, and The Movie Database (TMDB) API.
+A Netflix 2.0 built with React.js, CSS, Firebase Authentication, and The Movie Database (TMDB) API.
 Users can sign up / log in, browse trending movies, and watch trailers directly.
+
+and the 2.1 version is coming
 
 ✨ Features
 🔐 User Authentication with Firebase (Sign Up / Sign In / Log Out)
