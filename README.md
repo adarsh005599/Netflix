@@ -3,6 +3,7 @@ Live-https://netflix-jmu5.onrender.com/
 
 ## 📸 Screenshots  
 
+
 <p align="center">
   <img src="./src/assets/home.png" alt="Home Page" width="250"/>
   <img src="./src/assets/Screenshot%20(187).png" alt="Login Page" width="250"/>
