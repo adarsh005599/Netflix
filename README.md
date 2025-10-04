@@ -3,7 +3,6 @@ Live-https://netflix-jmu5.onrender.com/
 
 ## 📸 Screenshots  
 
-
 <p align="center">
   <img src="./src/assets/home.png" alt="Home Page" width="250"/>
   <img src="./src/assets/Screenshot%20(187).png" alt="Login Page" width="250"/>
@@ -25,7 +24,7 @@ Users can sign up / log in, browse trending movies, and watch trailers directly.
 
 Frontend: React.js, CSS
 Backend / Auth: Firebase Authentication
-API: TMDB API
+API: TMDB API for real time movies
 
 Deployment: Render
 
