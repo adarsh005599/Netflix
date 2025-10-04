@@ -1,4 +1,4 @@
-🎬 Netflix Clone
+🎬 Netflix 2.0
 Live-https://netflix-jmu5.onrender.com/
 
 ## 📸 Screenshots  
