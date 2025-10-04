@@ -49,7 +49,7 @@ REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 Run the project locally:
 npm start
 
-Pull requests are welcome!
+Pull requests are welcome!😊
 
 📜 License
 This project is for educational purposes only. All rights for assets belong to Netflix & TMDB.
